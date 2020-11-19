@@ -37,3 +37,15 @@ Create best and fast .traineddata files from each .checkpoint file
 ```
 make traineddata MODEL_NAME=ckb
 ```
+
+Useful scripts:
+
+```
+Open a log file and scroll to the end:
+
+less +G ./1-ckb.log
+
+Run 1-txt2lstmf in background:
+nohup bash -x 1-txt2lstmf.sh ckb > 1-ckb.log &
+```
+
