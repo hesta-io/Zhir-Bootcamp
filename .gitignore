@@ -13,3 +13,5 @@ gt/*.*
 langdata/*bigrams
 langdata/kur.*
 reports/*lstmeval*
+
+!gt/dont-delete
