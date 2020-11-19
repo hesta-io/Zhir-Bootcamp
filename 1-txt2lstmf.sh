@@ -32,7 +32,7 @@ while IFS= read -r fontname
         cp ${traininginput} ${fonttext}
         for cnt in $(seq 1 $linecount) ; do
 
-            remainder=$(( counter % 100 ))
+            remainder=$(( counter % 3 ))
             if [ "$remainder" -eq 0 ]; then
                 head -1 ${fonttext} > ${linetext}
                 sed -i  "1,1  d"  ${fonttext}
@@ -42,6 +42,8 @@ while IFS= read -r fontname
                 text2image --fonts_dir="$unicodefontdir" --text="${linetext}" --strip_unrenderable_words=false --xsize=2500 --ysize=300  --leading=32 --margin=12 --exposure=0  --font="$fontname"  --resolution=200  --outputbase=$prefix-200/"${fontname// /_}.200.$cnt.exp0" 
                 cp "$linetext" $prefix-200/"${fontname// /_}.200.$cnt.exp0".gt.txt
                 tesseract $prefix-200/"${fontname// /_}.200.$cnt.exp0".tif $prefix-200/"${fontname// /_}.200.$cnt.exp0" -l ara --psm 13 --dpi 200 lstm.train  
+
+                echo "========== PAGES PROCESSED:" $counter "=========="
             else
                 head -1 ${fonttext} > ${linetext}
                 sed -i  "1,1  d"  ${fonttext}
