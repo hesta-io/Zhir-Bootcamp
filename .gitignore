@@ -1,0 +1,16 @@
+*.log
+*/*test*
+*test*
+*xxx*.*
+data/*.txt
+data/*/
+data/*lstmf
+data/*unicharset
+data/fast_*
+data/script
+gt/*
+gt/*.*
+langdata/*bigrams
+langdata/kur.*
+reports/*lstmeval*
+1-txt2lstmf*

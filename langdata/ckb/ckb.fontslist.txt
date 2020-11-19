@@ -1,0 +1,130 @@
+00_Sarchia_ABC
+01_Sarchia_Abdulkareem
+02_Sarchia_Abdullah
+03_Sarchia_Abdulrahman_1
+04_Sarchia_Abdulrahman_2
+05_Sarchia_Abdulrahman_3
+06_Sarchia_Ahmad
+07_Sarchia_Akre
+08_Sarchia_Al Arabiya TV_1
+09_Sarchia_Al Arabiya TV_2
+10_Sarchia_Ali
+11_Sarchia_Amad
+12_Sarchia_Ameer
+13_Sarchia_Anas
+14_Sarchia_Asiacell
+15_Sarchia_Astera
+16_Sarchia_Bahasht_1
+17_Sarchia_Bahasht_2
+18_Sarchia_Bakwr
+19_Sarchia_Bananok
+20_Sarchia_Banoka_1
+21_Sarchia_Banoka_2
+22_Sarchia_Baran
+23_Sarchia_Barham
+24_Sarchia_Bayan
+25_Sarchia_Bilal
+26_Sarchia_Blawkrawa_1
+27_Sarchia_Blawkrawa_2
+28_Sarchia_Bokan
+29_Sarchia_Chiaiy
+30_Sarchia_Dashti
+31_Sarchia_Dastnus_1
+32_Sarchia_Dastnus_2
+33_Sarchia_Dihok
+34_Sarchia_Erbil
+35_Sarchia_Farsi
+36_Sarchia_Fwad
+37_Sarchia_Gul
+38_Sarchia_Halab
+39_Sarchia_Halabja
+40_Sarchia_Hang
+41_Sarchia_Harir
+42_Sarchia_Hawin
+43_Sarchia_Hawre
+44_Sarchia_Honrawa
+45_Sarchia_Iraq
+46_Sarchia_Islam
+47_Sarchia_Jihad
+48_Sarchia_Jihan
+49_Sarchia_Kani
+50_Sarchia_Kalakin
+51_Sarchia_Khalifan
+52_Sarchia_Khursheed
+53_Sarchia_Khwendnga
+54_Sarchia_Kirkuk
+55_Sarchia_Kurdish
+56_Sarchia_Kurdish_Bold Bold
+57_Sarchia_Kurdistan
+58_Sarchia_Lina
+59_Sarchia_Lumia
+60_Sarchia_Makka
+61_Sarchia_Mariwan
+62_Sarchia_Mohsin
+63_Sarchia_Muhammad
+64_Sarchia_Muslim
+65_Sarchia_Nayab
+66_Sarchia_Niga
+67_Sarchia_Nokia
+68_Sarchia_Nursi
+69_Sarchia_Omar
+70_Sarchia_Partwk
+71_Sarchia_Pirmam
+72_Sarchia_Qaisy
+73_Sarchia_Qamishlo
+74_Sarchia_Qatar
+75_Sarchia_Qutabkhana
+76_Sarchia_Rojhalat
+77_Sarchia_Rojnama_1
+78_Sarchia_Rojnama_2
+79_Sarchia_Rwandiz
+80_Sarchia_Salahaddin
+81_Sarchia_Shano
+82_Sarchia_Smart_1
+83_Sarchia_Smart_2
+84_Sarchia_Smora
+85_Sarchia_Soran
+86_Sarchia_Speelk_1
+87_Sarchia_Speelk_2
+88_Sarchia_Sulaimani
+89_Sarchia_Surchi
+90_Sarchia_Tablo
+91_Sarchia_Taran_1
+92_Sarchia_Taran_2
+93_Sarchia_TV
+94_Sarchia_Yaran
+95_Sarchia_Zain_1
+96_Sarchia_Zain_2
+97_Sarchia_Zer
+98_Sarchia_ZherNus
+99_Sarchia_Zhinga
+Amiri
+Amiri Bold
+Amiri Bold Italic
+Amiri Italic
+Amiri Quran
+Arabic Typesetting
+KacstBook Medium
+KacstOffice Medium
+Microsoft Uighur
+Microsoft Uighur Bold
+Noto Kufi Arabic
+Noto Kufi Arabic Bold
+Noto Naskh Arabic
+Noto Naskh Arabic Bold
+Sakkal Majalla
+Sakkal Majalla Bold
+Scheherazade
+Scheherazade Bold
+Segoe UI
+Segoe UI Bold
+Simplified Arabic
+Simplified Arabic Bold
+Tahoma
+Tahoma Bold
+Times New Roman
+Times New Roman, Bold
+Traditional Arabic
+Traditional Arabic Bold
+Vazir
+Vazir Bold
