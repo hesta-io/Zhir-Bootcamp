@@ -46,6 +46,9 @@ Open a log file and scroll to the end:
 less +G ./1-ckb.log
 
 Run 1-txt2lstmf in background:
-nohup bash -x 1-txt2lstmf.sh ckb > 1-ckb.log &
+nohup ./1-txt2lstmf.sh ckb > 1-ckb.log &
+
+To kill a process and see system resource usage:
+htop
 ```
 
