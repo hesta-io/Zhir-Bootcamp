@@ -32,7 +32,7 @@ while IFS= read -r fontname
         cp ${traininginput} ${fonttext}
         for cnt in $(seq 1 $linecount) ; do
 
-            remainder=$(( counter % 3 ))
+            remainder=$(( counter % 100 ))
             if [ "$remainder" -eq 0 ]; then
                 head -1 ${fonttext} > ${linetext}
                 sed -i  "1,1  d"  ${fonttext}
