@@ -1,5 +1,5 @@
 #!/bin/bash
-# nohup bash  4-train-layer.sh ckb > 4-ckb.log & 
+# nohup bash  2-train-layer.sh ckb > 2-ckb.log & 
 
 export PYTHONIOENCODING=utf8
 ulimit -s 65536

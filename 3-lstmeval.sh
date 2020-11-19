@@ -1,5 +1,5 @@
 #!/bin/sh
-# nohup bash 6-lstmeval.sh ckb Layer > reports/6-ckb-lstmeval.txt &
+# nohup bash 3-lstmeval.sh ckb Layer > reports/3-ckb-lstmeval.txt &
 
 SCRIPTPATH=`pwd`
 PREFIX=$1

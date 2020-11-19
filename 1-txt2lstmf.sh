@@ -1,7 +1,7 @@
 #!/bin/bash
 # SINGLE line images using text2image - don't split file among fonts - ckb20
 #  text with no numbers or punctuation 
-# nohup bash -x 1-txt2lstmf-all.sh  ckb20 > 1-ckb20.log & 
+# nohup bash -x 1-txt2lstmf.sh ckb > 1-ckb.log & 
 
 unicodefontdir=./fonts
 MODEL=$1
