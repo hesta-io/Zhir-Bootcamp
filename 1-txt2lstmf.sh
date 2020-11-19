@@ -21,6 +21,12 @@ echo "Lines: " $linecount
 fonttext=/tmp/$MODEL-file-train.txt
 linetext=/tmp/$MODEL-line-train.txt
 
+SCRIPTPATH=`pwd`
+TESSDATA_PATH=$SCRIPTPATH/tessdata
+echo 'setting TESSDATA_PREFIX to ' $TESSDATA_PATH
+export TESSDATA_PREFIX=$TESSDATA_PATH
+
+
 while IFS= read -r fontname
      do
         cp ${traininginput} ${fonttext}
