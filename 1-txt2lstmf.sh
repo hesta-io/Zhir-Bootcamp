@@ -34,7 +34,6 @@ while IFS= read -r fontname
 
             remainder=$(( counter % 100 ))
             if [ "$remainder" -eq 0 ]; then
-                echo "~~~~~~~~~~~~~~HELLLLLLOOOOOOOOOOO~~~~~~~~~~~~"
                 head -1 ${fonttext} > ${linetext}
                 sed -i  "1,1  d"  ${fonttext}
                 text2image --fonts_dir="$unicodefontdir" --text="${linetext}" --strip_unrenderable_words=false --xsize=2500 --ysize=300  --leading=32 --margin=12 --exposure=0  --font="$fontname"   --outputbase="$prefix"/"${fontname// /_}.300.$cnt.exp0" 
