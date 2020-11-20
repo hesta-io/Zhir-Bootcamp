@@ -26,13 +26,14 @@ TESSDATA_PATH=$SCRIPTPATH/tessdata
 echo 'setting TESSDATA_PREFIX to ' $TESSDATA_PATH
 export TESSDATA_PREFIX=$TESSDATA_PATH
 
+font_counter=1
 while IFS= read -r fontname
      do
-        counter=1
+        line_counter=1
         cp ${traininginput} ${fonttext}
         for cnt in $(seq 1 $linecount) ; do
 
-            remainder=$(( counter % 100 ))
+            remainder=$(( line_counter % 100 ))
             if [ "$remainder" -eq 0 ]; then
                 head -1 ${fonttext} > ${linetext}
                 sed -i  "1,1  d"  ${fonttext}
@@ -43,7 +44,7 @@ while IFS= read -r fontname
                 cp "$linetext" $prefix-200/"${fontname// /_}.200.$cnt.exp0".gt.txt
                 tesseract $prefix-200/"${fontname// /_}.200.$cnt.exp0".tif $prefix-200/"${fontname// /_}.200.$cnt.exp0" -l ara --psm 13 --dpi 200 lstm.train  
 
-                echo "========== PAGES PROCESSED:" $counter "=========="
+                echo "========== LINES PROCESSED:" $line_counter "of font #" $font_counter "=========="
             else
                 head -1 ${fonttext} > ${linetext}
                 sed -i  "1,1  d"  ${fonttext}
@@ -55,11 +56,12 @@ while IFS= read -r fontname
                 tesseract $prefix-200/"${fontname// /_}.200.$cnt.exp0".tif $prefix-200/"${fontname// /_}.200.$cnt.exp0" -l ara --psm 13 --dpi 200 lstm.train 2>/dev/null
             fi
 
-            counter=$(( counter + 1 ))
+            line_counter=$(( line_counter + 1 ))
          done
         ls -1  $prefix/*${fontname// /_}.*.lstmf > data/all-${fontname// /_}-$MODEL-lstmf
         ls -1  $prefix-200/*${fontname// /_}.*.lstmf > data/all-${fontname// /_}-$MODEL-200-lstmf
         echo "Done with ${fontname// /_}"
+        font_counter=$(( font_counter + 1 ))
      done < "$fontlist"
 echo "All Done"
 
