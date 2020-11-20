@@ -1,4 +1,5 @@
 [Install tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html):
+
 ```
 sudo add-apt-repository ppa:alex-p/tesseract-ocr-devel
 sudo apt-get update
@@ -55,5 +56,14 @@ nohup ./1-txt2lstmf.sh ckb > 1-ckb.log &
 
 To kill a process and see system resource usage:
 htop
-```
 
+
+nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-1 > logs/1.log &
+nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-2 > logs/2.log &
+nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-3 > logs/3.log &
+nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-4 > logs/4.log &
+nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-5 > logs/5.log &
+nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-6 > logs/6.log &
+nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-7 > logs/7.log &
+nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-8 > logs/8.log &
+```
