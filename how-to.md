@@ -2,6 +2,7 @@
 ```
 sudo add-apt-repository ppa:alex-p/tesseract-ocr-devel
 sudo apt-get update
+sudo apt install tesseract-ocr
 ```
 
 https://github.com/tesseract-ocr/tesseract/issues/217
