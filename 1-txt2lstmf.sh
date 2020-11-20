@@ -19,8 +19,8 @@ echo "Fonts: " $fontcount
 echo "Lines: " $linecount
 
 # files created by script during processing
-fonttext=/tmp/$MODEL-file-train.txt
-linetext=/tmp/$MODEL-line-train.txt
+fonttext=/tmp/$MODEL/$FONTSLIST_NAME-file-train.txt
+linetext=/tmp/$MODEL/$FONTSLIST_NAME-line-train.txt
 
 SCRIPTPATH=`pwd`
 TESSDATA_PATH=$SCRIPTPATH/tessdata
