@@ -25,7 +25,7 @@ Note: Make sure `langdata/ckb/ckb.fontslist.txt` has at least one font and an em
 python3 -m pip install image
 python3 -m pip install python-bidi
 sudo chmod +x *.sh
-./1-txt2lstmf.sh ckb
+nohup ./1-txt2lstmf.sh ckb > 1-ckb.log &
 ```
 
 4.
