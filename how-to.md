@@ -1,4 +1,8 @@
-shreeshrii1.
+[Install tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html):
+```
+sudo add-apt-repository ppa:alex-p/tesseract-ocr-devel
+sudo apt-get update
+```
 
 https://github.com/tesseract-ocr/tesseract/issues/217
 `fc-cache -f -v /mnt/c/Windows/Fonts/`
