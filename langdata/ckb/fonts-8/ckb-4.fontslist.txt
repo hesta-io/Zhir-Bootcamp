@@ -1,0 +1,15 @@
+53_Sarchia_Khwendnga
+54_Sarchia_Kirkuk
+55_Sarchia_Kurdish
+57_Sarchia_Kurdistan
+58_Sarchia_Lina
+59_Sarchia_Lumia
+60_Sarchia_Makka
+61_Sarchia_Mariwan
+62_Sarchia_Mohsin
+63_Sarchia_Muhammad
+64_Sarchia_Muslim
+65_Sarchia_Nayab
+66_Sarchia_Niga
+67_Sarchia_Nokia
+68_Sarchia_Nursi

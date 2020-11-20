@@ -1,0 +1,9 @@
+Simplified Arabic Bold
+Tahoma
+Tahoma Bold
+Times New Roman
+Times New Roman, Bold
+Traditional Arabic
+Traditional Arabic Bold
+Vazir
+Vazir Bold

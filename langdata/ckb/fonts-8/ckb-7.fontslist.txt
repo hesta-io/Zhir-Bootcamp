@@ -1,0 +1,15 @@
+KacstBook Medium
+KacstOffice Medium
+Microsoft Uighur
+Microsoft Uighur Bold
+Noto Kufi Arabic
+Noto Kufi Arabic Bold
+Noto Naskh Arabic
+Noto Naskh Arabic Bold
+Sakkal Majalla
+Sakkal Majalla Bold
+Scheherazade
+Scheherazade Bold
+Segoe UI
+Segoe UI Bold
+Simplified Arabic
