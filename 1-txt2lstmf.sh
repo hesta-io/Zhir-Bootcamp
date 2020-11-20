@@ -8,7 +8,7 @@ MODEL=$1
 FONTSLIST_NAME=$2
 prefix=gt/$MODEL
 #rm -rf ${prefix} ${prefix}-200
-#mkdir  ${prefix} ${prefix}-200
+mkdir -p ${prefix} ${prefix}-200
 
 traininginput=langdata/$MODEL/$MODEL.training_text
 fontlist=langdata/$MODEL/$FONTSLIST_NAME.fontslist.txt
