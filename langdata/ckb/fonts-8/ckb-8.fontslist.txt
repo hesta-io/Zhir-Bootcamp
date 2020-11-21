@@ -1,9 +1,11 @@
-Simplified Arabic Bold
+Microsoft Uighur
+Noto Kufi Arabic
+Noto Naskh Arabic
+Sakkal Majalla
+Scheherazade
+Segoe UI
+Simplified Arabic
 Tahoma
-Tahoma Bold
 Times New Roman
-Times New Roman, Bold
 Traditional Arabic
-Traditional Arabic Bold
 Vazir
-Vazir Bold

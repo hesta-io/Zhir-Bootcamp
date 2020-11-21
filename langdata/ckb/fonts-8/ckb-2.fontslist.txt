@@ -1,3 +1,5 @@
+16_Sarchia_Bahasht_1
+18_Sarchia_Bakwr
 19_Sarchia_Bananok
 20_Sarchia_Banoka_1
 22_Sarchia_Baran
@@ -9,7 +11,3 @@
 29_Sarchia_Chiaiy
 30_Sarchia_Dashti
 33_Sarchia_Dihok
-34_Sarchia_Erbil
-35_Sarchia_Farsi
-36_Sarchia_Fwad
-37_Sarchia_Gul

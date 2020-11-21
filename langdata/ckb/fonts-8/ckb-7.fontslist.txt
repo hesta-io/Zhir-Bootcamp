@@ -1,15 +1,11 @@
+90_Sarchia_Tablo
+91_Sarchia_Taran_1
+93_Sarchia_TV
+94_Sarchia_Yaran
+95_Sarchia_Zain_1
+97_Sarchia_Zer
+98_Sarchia_ZherNus
+99_Sarchia_Zhinga
+Amiri
+Amiri Quran
 KacstBook Medium
-KacstOffice Medium
-Microsoft Uighur
-Microsoft Uighur Bold
-Noto Kufi Arabic
-Noto Kufi Arabic Bold
-Noto Naskh Arabic
-Noto Naskh Arabic Bold
-Sakkal Majalla
-Sakkal Majalla Bold
-Scheherazade
-Scheherazade Bold
-Segoe UI
-Segoe UI Bold
-Simplified Arabic

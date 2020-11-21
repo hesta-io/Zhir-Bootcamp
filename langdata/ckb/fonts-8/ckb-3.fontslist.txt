@@ -1,3 +1,7 @@
+34_Sarchia_Erbil
+35_Sarchia_Farsi
+36_Sarchia_Fwad
+37_Sarchia_Gul
 38_Sarchia_Halab
 39_Sarchia_Halabja
 40_Sarchia_Hang
@@ -7,9 +11,3 @@
 44_Sarchia_Honrawa
 45_Sarchia_Iraq
 46_Sarchia_Islam
-47_Sarchia_Jihad
-48_Sarchia_Jihan
-49_Sarchia_Kani
-50_Sarchia_Kalakin
-51_Sarchia_Khalifan
-52_Sarchia_Khursheed
