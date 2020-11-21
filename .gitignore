@@ -4,6 +4,7 @@
 *xxx*.*
 data/*.txt
 data/*/
+logs/*
 data/*lstmf
 data/*unicharset
 data/fast_*
