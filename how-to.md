@@ -66,4 +66,15 @@ nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-5 > logs/5.log &
 nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-6 > logs/6.log &
 nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-7 > logs/7.log &
 nice --20 nohup ./1-txt2lstmf.sh ckb fonts-8/ckb-8 > logs/8.log &
+
+
+Get disk info:
+df
+
+Get directory size:
+du -sh bootcamp
+
+Get number of files in a directory:
+find bootcamp/gt -name '01_Sarchia_Abdulkareem.200.4*' | wc -l
+find bootcamp/gt -type f | wc -l
 ```
