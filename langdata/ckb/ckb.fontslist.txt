@@ -85,30 +85,16 @@
 98_Sarchia_ZherNus
 99_Sarchia_Zhinga
 Amiri
-Amiri Bold
 Amiri Quran
-Arabic Typesetting
 KacstBook Medium
-KacstOffice Medium
 Microsoft Uighur
-Microsoft Uighur Bold
 Noto Kufi Arabic
-Noto Kufi Arabic Bold
 Noto Naskh Arabic
-Noto Naskh Arabic Bold
 Sakkal Majalla
-Sakkal Majalla Bold
 Scheherazade
-Scheherazade Bold
 Segoe UI
-Segoe UI Bold
 Simplified Arabic
-Simplified Arabic Bold
 Tahoma
-Tahoma Bold
 Times New Roman
-Times New Roman, Bold
 Traditional Arabic
-Traditional Arabic Bold
 Vazir
-Vazir Bold
