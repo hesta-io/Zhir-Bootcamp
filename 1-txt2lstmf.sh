@@ -31,6 +31,8 @@ font_counter=1
 while IFS= read -r fontname
      do
         line_counter=1
+		font_dir=$(dirname ${fonttext})
+		mkdir -p "${font_dir}"
         cp ${traininginput} ${fonttext}
         for cnt in $(seq 1 $linecount) ; do
 
