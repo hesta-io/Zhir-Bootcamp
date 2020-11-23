@@ -6,6 +6,8 @@ sudo apt-get update
 sudo apt install tesseract-ocr
 ```
 
+NOTE: Actually, we might need 4.1.x instead of 5! Because 5 might have a bug. See [here](https://github.com/tesseract-ocr/tesseract/issues/3111)
+
 https://github.com/tesseract-ocr/tesseract/issues/217
 `fc-cache -f -v /mnt/c/Windows/Fonts/`
 
@@ -33,7 +35,7 @@ nohup ./1-txt2lstmf.sh ckb > 1-ckb.log &
 4.
 
 ```
- ./2-train-layer.sh ckb
+nohup ./2-train-layer.sh ckb > training.log &
 ```
 
 7.
