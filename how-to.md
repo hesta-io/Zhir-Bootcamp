@@ -80,3 +80,9 @@ Get number of files in a directory:
 find bootcamp/gt -name '01_Sarchia_Abdulkareem.200.4*' | wc -l
 find bootcamp/gt -type f | wc -l
 ```
+
+```
+less +G bootcamp/training.log
+ls -ltr bootcamp/data/ckb/checkpoints/
+grep -o 'of document' bootcamp/training.log | wc -l
+```
