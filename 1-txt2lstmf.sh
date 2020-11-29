@@ -65,8 +65,8 @@ while IFS= read -r fontname
 
             line_counter=$(( line_counter + 1 ))
          done
-        ls -1  $prefix/"${fontname// /_}"/*${fontname// /_}.*.lstmf > data/all-${fontname// /_}-$MODEL-lstmf
-        ls -1  $prefix-200/${fontname// /_}/*${fontname// /_}.*.lstmf > data/all-${fontname// /_}-$MODEL-200-lstmf
+        find -maxdepth 1 $prefix/"${fontname// /_}"/*${fontname// /_}.*.lstmf > data/all-${fontname// /_}-$MODEL-lstmf
+        find -maxdepth 1 $prefix-200/${fontname// /_}/*${fontname// /_}.*.lstmf > data/all-${fontname// /_}-$MODEL-200-lstmf
         echo "Done with ${fontname// /_}"
         font_counter=$(( font_counter + 1 ))
      done < "$fontlist"
