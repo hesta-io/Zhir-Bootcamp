@@ -90,3 +90,4 @@ find bootcamp/gt -type f | wc -l
 - [Tesseract Data Files](https://tesseract-ocr.github.io/tessdoc/Data-Files)
 - [Tesstrain wiki](https://github.com/tesseract-ocr/tesstrain/wiki). Especially the article about [Arabic Handwriting](https://github.com/tesseract-ocr/tesstrain/wiki/Arabic-Handwriting).
 - [Kurdish Wikipedia Dumps](https://dumps.wikimedia.org/ckbwiki)
+- [Create Custom Neural Net for hand writtern digits](http://neuralnetworksanddeeplearning.com/chap1.html)
