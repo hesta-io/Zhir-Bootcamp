@@ -31,7 +31,7 @@ This repo serves as the starting point and documentation for training new models
 1. Run training (At least 24 hours):
 
    ```
-   ./2-train-layer.sh ckb
+   nice --20 nohup ./2-train-layer.sh ckb > training.log &
    ```
 
 1. Create best and fast .traineddata files from each .checkpoint file
