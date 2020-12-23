@@ -9,3 +9,5 @@
 29_Sarchia_Chiaiy
 30_Sarchia_Dashti
 33_Sarchia_Dihok
+UniQAIDAR_Hewal 009
+UniQAIDAR_Hewal 022
