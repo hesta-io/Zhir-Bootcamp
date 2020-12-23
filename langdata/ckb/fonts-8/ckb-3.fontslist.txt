@@ -1,4 +1,3 @@
-34_Sarchia_Erbil
 35_Sarchia_Farsi
 36_Sarchia_Fwad
 37_Sarchia_Gul
@@ -10,4 +9,3 @@
 43_Sarchia_Hawre
 44_Sarchia_Honrawa
 45_Sarchia_Iraq
-46_Sarchia_Islam
