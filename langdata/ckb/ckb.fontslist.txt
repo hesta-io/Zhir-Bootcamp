@@ -1,0 +1,98 @@
+00_Sarchia_ABC
+01_Sarchia_Abdulkareem
+02_Sarchia_Abdullah
+03_Sarchia_Abdulrahman_1
+06_Sarchia_Ahmad
+08_Sarchia_Al Arabiya TV_1
+10_Sarchia_Ali
+11_Sarchia_Amad
+13_Sarchia_Anas
+14_Sarchia_Asiacell
+15_Sarchia_Astera
+16_Sarchia_Bahasht_1
+18_Sarchia_Bakwr
+19_Sarchia_Bananok
+20_Sarchia_Banoka_1
+22_Sarchia_Baran
+24_Sarchia_Bayan
+26_Sarchia_Blawkrawa_1
+28_Sarchia_Bokan
+29_Sarchia_Chiaiy
+30_Sarchia_Dashti
+33_Sarchia_Dihok
+UniQAIDAR_Hewal 009
+UniQAIDAR_Hewal 022
+UniQAIDAR_Hewal 023
+35_Sarchia_Farsi
+36_Sarchia_Fwad
+37_Sarchia_Gul
+38_Sarchia_Halab
+39_Sarchia_Halabja
+40_Sarchia_Hang
+41_Sarchia_Harir
+42_Sarchia_Hawin
+43_Sarchia_Hawre
+44_Sarchia_Honrawa
+45_Sarchia_Iraq
+UniQAIDAR_Hewal 023
+47_Sarchia_Jihad
+48_Sarchia_Jihan
+49_Sarchia_Kani
+50_Sarchia_Kalakin
+51_Sarchia_Khalifan
+52_Sarchia_Khursheed
+53_Sarchia_Khwendnga
+54_Sarchia_Kirkuk
+55_Sarchia_Kurdish
+57_Sarchia_Kurdistan
+58_Sarchia_Lina
+59_Sarchia_Lumia
+60_Sarchia_Makka
+61_Sarchia_Mariwan
+63_Sarchia_Muhammad
+64_Sarchia_Muslim
+65_Sarchia_Nayab
+66_Sarchia_Niga
+67_Sarchia_Nokia
+68_Sarchia_Nursi
+69_Sarchia_Omar
+70_Sarchia_Partwk
+71_Sarchia_Pirmam
+72_Sarchia_Qaisy
+73_Sarchia_Qamishlo
+74_Sarchia_Qatar
+75_Sarchia_Qutabkhana
+76_Sarchia_Rojhalat
+77_Sarchia_Rojnama_1
+79_Sarchia_Rwandiz
+80_Sarchia_Salahaddin
+81_Sarchia_Shano
+82_Sarchia_Smart_1
+84_Sarchia_Smora
+85_Sarchia_Soran
+86_Sarchia_Speelk_1
+88_Sarchia_Sulaimani
+89_Sarchia_Surchi
+90_Sarchia_Tablo
+91_Sarchia_Taran_1
+93_Sarchia_TV
+94_Sarchia_Yaran
+95_Sarchia_Zain_1
+97_Sarchia_Zer
+98_Sarchia_ZherNus
+99_Sarchia_Zhinga
+Amiri
+Amiri Quran
+KacstBook Medium
+UniQAIDAR_Hewal 032
+Microsoft Uighur
+Noto Kufi Arabic
+Noto Naskh Arabic
+Sakkal Majalla
+Scheherazade
+Segoe UI
+Simplified Arabic
+Tahoma
+Times New Roman
+Traditional Arabic
+Vazir
