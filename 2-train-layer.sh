@@ -44,7 +44,7 @@ LAYER_NET_SPEC="[Lfx128 O1c77]" \
 LAYER_APPEND_INDEX=5 \
 RATIO_TRAIN=0.90 \
 DEBUG_INTERVAL=0 \
-MAX_ITERATIONS=500000
+MAX_ITERATIONS=50000000
 
 # https://tesseract-ocr.github.io/tessdoc/TrainingTesseract-4.00.html#debug-interval-and-visual-debugging
 
