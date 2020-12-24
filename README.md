@@ -29,6 +29,7 @@ This repo serves as the starting point and documentation for training new models
    ```
 
 1. Run training (At least 24 hours):
+   **NOTE**: Make sure number of characters in unicharset matches the one specified by the training script (`2-train-layer.sh`). [More information.](https://tesseract-ocr.github.io/tessdoc/TrainingTesseract-4.00.html#training-from-scratch)
 
    ```
    nice --20 nohup ./2-train-layer.sh ckb > training.log &
